@@ -1,0 +1,24 @@
+.home-name{
+    color: blueviolet;
+   
+    font-family :Arial, Helvetica, sans-serif ;
+   text-align: center;
+}
+
+.home-inf{
+    color: rgb(24, 13, 239);
+    font-size: 50px;
+     text-align: center;
+}
+.home-images{
+    text-align: center;
+}
+#content{
+    
+    width: 960px auto;
+    height: 0px auto;
+    margin: auto;
+}
+.text-center{
+    text-align: center;
+}
